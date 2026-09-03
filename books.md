@@ -1,36 +1,25 @@
-📚 My Class 6 Books
+# 📚 My Class 6 Books
 
-1. 📘 English I
+1. [📘 English I](books/english-1.md)
 
+2. [📗 English II](books/english-2.md)
 
-2. 📗 English II
+3. [📕 Nepali I](books/nepali-1.md)
 
+4. [📙 Nepali II](books/nepali-2.md)
 
-3. 📕 Nepali I
+5. [🔬 Science](books/science.md)
 
+6. [➗ Math](books/math.md)
 
-4. 📙 Nepali II
+7. [💻 Computer](books/computer.md)
 
+8. [❤️ Health](books/health.md)
 
-5. 🔬 Science
+9. [📖 Nepal Bhasa](books/nepal-bhasa.md)
 
+10. [🌏 Samajik](books/samajik.md)
 
-6. ➗ Math
+11. [📚 Story Fun](books/story-fun.md)
 
-
-7. 💻 Computer
-
-
-8. ❤️ Health
-
-
-9. 📖 Nepal Bhasa
-
-
-10. 🌏 Samajik
-
-
-11. 📚 Story Fun
-
-
-12. 🏠 Home Fun
+12. [🏠 Home Fun](books/home-fun.md)
